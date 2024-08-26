@@ -41,6 +41,7 @@ This project is a Python-based SQL Injection Vulnerability Scanner. It tests web
    The scanner will display possible SQL injection vulnerabilities in the console.
    The output will show which payloads might have caused an SQL injection vulnerability, similar to the following:
      OUTPUT:
+   
      [!] Possible SQL Injection vulnerability found with payload: ' OR '1'='1
      [!] Possible SQL Injection vulnerability found with payload: ' OR '1'='1' -- 
      [!] Possible SQL Injection vulnerability found with payload: ' OR '1'='1' #
@@ -52,4 +53,4 @@ This project is a Python-based SQL Injection Vulnerability Scanner. It tests web
      [!] Possible SQL Injection vulnerability found with payload: ' AND 1=2--
    
 
-  
+                                         ----ENJOY CODING----
